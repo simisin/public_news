@@ -1,3 +1,2 @@
 # public_news
-===
-*Public announcements on simisin.net
+* Public announcements on simisin.net 
