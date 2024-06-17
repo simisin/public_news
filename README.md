@@ -19,6 +19,8 @@
     > ANAインターコンチネンタルホテル東京で開催された同社イベントに、「Blue Wing ※事例登壇-4社の連続ショートプレゼン-『理想から考える経営／コーポレート組織』」というテーマでプレゼンしました
 * 2024-01-12  #`HowTV`  [freee 事例紹介](https://www.freee.co.jp/cases/howtelevision/)
     > 「急成長する上場企業のfreee活用法、ワークフローやAPIを利用し、業務を大幅に効率化」
+* 2023-12-12  #`HowTV`  [なぜ人が増えると仕事も増えるのか。或いはコーポレート部門の業務システムの変遷について](https://blog.howtelevision.co.jp/entry/2023/12/12/000000)
+    >  HowTelevision Advent Calendar 2023 12日目に寄稿
 * 2023-11-22  #`HowTV`  [Diggle予実ナイト#8 ～CFOが経営戦略/実務/予実管理について語り合う夜～](https://diggle.jp/insights/events/20231122-yojitsu-night8/)
     > HENNGE株式会社オープンラウンジで開催された同社イベントに登壇しました
 * 2023-05-21  #`SECULIA`  [誤送信防いで安全に　セキュリア（港区）・清水伸太郎社長＜リーダーズ＞](https://www.tokyo-np.co.jp/article/251373)
@@ -29,3 +31,5 @@
     > 日本経済新聞/Nikkei Financial
 * 2020-10-14 #`HowTV`  [Market Breakthrough（第41回）株式会社ハウテレビジョン](https://www.youtube.com/watch?v=qbCc6Xc3gro)
     > 日経CNBC
+* 2020-08-07 #`HowTV`  [ハウテレビジョンCFO西塚慎太郎、執行役員清水伸太郎両氏に聞く~IPO後の成長戦略とIR活動](https://keiei.freee.co.jp/articles/i0101956)
+    > 経営ハッカー
