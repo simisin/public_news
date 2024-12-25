@@ -16,7 +16,7 @@
 
 
 ### メディアカバレッジ ###
-* 2024-12-25  #`HowTV`  [パリ五輪年の振り返り。或いは人事労務オペレーションの刷新](https://blog.howtelevision.co.jp/entry/2024/12/25/030000)
+* 2024-12-25  #`HowTV`  [メリークリスマス！或いは人事労務オペレーションの刷新](https://blog.howtelevision.co.jp/entry/2024/12/25/030000)
     >  HowTelevision Advent Calendar 2024 25日目に寄稿
 * 2024-05-14  #`HowTV`  [freee TOGOWorld 2024](https://www.freee.co.jp/lp2/togo-world-2024/) 
     > ANAインターコンチネンタルホテル東京で開催された同社イベントにて、「Blue Wing ※事例登壇-4社の連続ショートプレゼン-『理想から考える経営／コーポレート組織』」というテーマでプレゼンしました
