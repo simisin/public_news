@@ -17,6 +17,8 @@
 
 
 ### メディアカバレッジ ###
+* 2025-03-27  #`HowTV`  [freee 事例紹介](https://www.freee.co.jp/cases/howtelevision-2/)
+    > 「freeeで給与計算/勤怠管理/雇用契約を一元化し、月30時間の残業を削減。さらにバックオフィスがより付加価値の高い業務に注力できる体制を実現。」
 * 2024-12-25  #`HowTV`  [メリークリスマス！或いは人事労務オペレーションの刷新](https://blog.howtelevision.co.jp/entry/2024/12/25/030000)
     >  HowTelevision Advent Calendar 2024 25日目に寄稿
 * 2024-05-14  #`HowTV`  [freee TOGOWorld 2024](https://www.freee.co.jp/lp2/togo-world-2024/) 
