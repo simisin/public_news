@@ -38,8 +38,8 @@
 
 
 ### 講演・登壇 ###
-* 2025-10-04  #`Private`  [Link Cysec](https://team.cysec.isl.im.dendai.ac.jp/)
-    > 東京電機大学5号館で開催された同会において、「脆弱性管理と武器化」というテーマで発表を行いました
+* 2025-10-04  #`Private`  [Link Cysec](https://team.cysec.isl.im.dendai.ac.jp/#h.5kqdx8j9c02a)
+    > 東京電機大学5号館で開催された同会において、「Exploring Zero-Day Vulnerabilities（ゼロデイ剤弱性について考える）」というテーマで発表を行いました
 * 2025-04-12  #`Private`  価値と事実研究会
     > 赤坂で開催された同研究会にて、「世界経済の見通しとリスクファクター」というテーマでプレゼンしました
 * 2024-05-14  #`HowTV`  [freee TOGOWorld 2024](https://www.freee.co.jp/lp2/togo-world-2024/) 
