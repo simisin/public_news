@@ -39,6 +39,8 @@
 
 
 ### 講演・登壇 ###
+* 2025-11-19  #`HowTV`  [Diggleセミナー「タイムリーな着地見込で経営判断の質を高める予実管理術」](https://diggle.jp/insights/events/)
+    > 掲題のテーマで同社イベントに登壇し、パネルディスカッションを行いました
 * 2025-10-04  #`Private`  [Link Cysec](https://team.cysec.isl.im.dendai.ac.jp/#h.5kqdx8j9c02a)
     > 東京電機大学5号館で開催された同会において、「Exploring Zero-Day Vulnerabilities（ゼロデイ剤弱性について考える）」というテーマで発表を行いました
 * 2025-04-12  #`Private`  価値と事実研究会
