@@ -41,6 +41,8 @@
 
 
 ### 講演・登壇 ###
+* 2026-03-12  #`Private`  [サイバーセキュリティシンポジウム in TDU 2026](https://www.dendai.ac.jp/event/)
+    > 同シンポジウムにてパネルディスカッションを行う予定です
 * 2025-11-19  #`HowTV`  [Diggleセミナー「タイムリーな着地見込で経営判断の質を高める予実管理術」](https://diggle.jp/insights/events/20251119-howtelevision-casestudy/)
     > 掲題のテーマで同社イベントに登壇し、予実管理について講演を行いました
 * 2025-10-04  #`Private`  [Link Cysec](https://team.cysec.isl.im.dendai.ac.jp/#h.5kqdx8j9c02a)
