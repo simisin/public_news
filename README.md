@@ -20,13 +20,15 @@
 
 
 ### メディアカバレッジ ###
+* 2025-12-23  #`HowTV`  [【2025 Advent Calendar 24日目】激動のコーポレート2025総集編](https://howtv.hatenablog.com/entry/2025/12/24/144345)
+    >  HowTelevision Advent Calendar 2025 24日目に寄稿
 * 2025-03-27  #`HowTV`  [freee 事例紹介](https://www.freee.co.jp/cases/howtelevision-2/)
     > 「freeeで給与計算/勤怠管理/雇用契約を一元化し、月30時間の残業を削減。さらにバックオフィスがより付加価値の高い業務に注力できる体制を実現。」
-* 2024-12-25  #`HowTV`  [メリークリスマス！或いは人事労務オペレーションの刷新](https://blog.howtelevision.co.jp/entry/2024/12/25/030000)
+* 2024-12-25  #`HowTV`  [メリークリスマス！或いは人事労務オペレーションの刷新](https://howtv.hatenablog.com/entry/2024/12/25/030000)
     >  HowTelevision Advent Calendar 2024 25日目に寄稿
 * 2024-01-12  #`HowTV`  [freee 事例紹介](https://www.freee.co.jp/cases/howtelevision/)
     > 「急成長する上場企業のfreee活用法、ワークフローやAPIを利用し、業務を大幅に効率化」
-* 2023-12-12  #`HowTV`  [なぜ人が増えると仕事も増えるのか。或いはコーポレート部門の業務システムの変遷について](https://blog.howtelevision.co.jp/entry/2023/12/12/000000)
+* 2023-12-12  #`HowTV`  [なぜ人が増えると仕事も増えるのか。或いはコーポレート部門の業務システムの変遷について](https://howtv.hatenablog.com/entry/2023/12/12/000000)
     >  HowTelevision Advent Calendar 2023 12日目に寄稿
 * 2023-05-21  #`SECULIA`  [誤送信防いで安全に　セキュリア（港区）・清水伸太郎社長＜リーダーズ＞](https://www.tokyo-np.co.jp/article/251373)
     > 東京新聞/東京けいざい
