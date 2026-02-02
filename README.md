@@ -36,8 +36,8 @@
 
 
 ### 講演・登壇 ###
-* 2026-03-12  #`Private`  [サイバーセキュリティシンポジウム in TDU 2026](https://www.dendai.ac.jp/event/)
-    > 同シンポジウムにてパネルディスカッションを行う予定です
+* 2026-03-12  #`Private`  [サイバーセキュリティシンポジウム in TDU 2026](https://team.cysec.isl.im.dendai.ac.jp/home/20260312)
+    > 同シンポジウムの第一部パネルディスカッション「学び続けるためのエコシステムの構築」に登壇します
 * 2026-02-2  #`HowTV`  [StockVoice 東京マーケットワイド（前場）「New Stage ハウテレビジョン[7064]」](https://www.youtube.com/watch?v=qZjPtqS_Jwk)
     > StockVoice 東京証券取引所からの生中継に出演し、会社説明等を行いました
 * 2025-11-19  #`HowTV`  [Diggleセミナー「タイムリーな着地見込で経営判断の質を高める予実管理術」](https://diggle.jp/insights/events/20251119-howtelevision-casestudy/)
